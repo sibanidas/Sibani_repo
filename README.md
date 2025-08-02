@@ -1,7 +1,9 @@
 # Hi ,I'm Sibani Das
 ** Data Engineer | AWS Glue | Pyspark | Airflow | Git
 
-Welcome to my Github ! I am a data engineer with 5.7+ years of experience designing and developing scalable data pipelines on AWS .I specialize in :
+Welcome to my Github ! I am a data engineer with 5.7+ years of experience designing and developing scalable data pipelines on AWS .
+
+I specialize in :
 
 --Building ETL workflows using **AWS Glue ** ,**Pyspark**,** S3**
 
